@@ -47,7 +47,7 @@
     }
 </script>
 <style scoped lang="less">
-  h3{color:red;padding-left: 2%;margin: 10px 0; font-weight: normal}
+  h3{color:red;padding-left: 2%;margin: 10px 5px; font-weight: normal}
   .hot{
     display: flex;
     flex-wrap: wrap;
