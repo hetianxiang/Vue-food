@@ -59,9 +59,9 @@
       width: 33.333%;
       img{
         width: 80%;
-        height: 90px;
+        height: 80px;
         box-shadow: 1px 1px 2px 1px;
-        margin: 10px;
+        margin: 5px;
       }
     }
   }
