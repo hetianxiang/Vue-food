@@ -96,6 +96,4 @@ http.createServer(function (req,res) {
         break;
     }
   }
-}).listen(3000,function () {
-  console.log('success');
-});
+}).listen(3000);
