@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-###技术栈：
+### 技术栈：
 Vue、flex弹性布局、Less、Swiper、图标字体
 
 ## Build Setup
